@@ -14,3 +14,5 @@
 ## git pull origin development
 ## git stash pop
 ## git reset --soft HEAD~1
+## git branch -d #branch_name
+## git push origin --delete #branch_name
