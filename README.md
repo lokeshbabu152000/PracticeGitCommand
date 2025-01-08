@@ -4,6 +4,7 @@
 ## git branch
 ## git branch #new_branch_name
 ## git checkout #branch_name
+## git push -u origin #branch_name
 ## git status
 ## git add *
 ## git commit -m "commit message"
